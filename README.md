@@ -1,10 +1,8 @@
 # Pokedex
 
-[![Travis](https://img.shields.io/travis/alik0211/pokedex/master.svg?style=flat-square)](https://travis-ci.com/alik0211/pokedex)
-[![Dependency Status](https://img.shields.io/david/alik0211/pokedex.svg?label=deps&style=flat-square)](https://david-dm.org/alik0211/pokedex)
-[![devDependency Status](https://img.shields.io/david/dev/alik0211/pokedex.svg?label=devDeps&style=flat-square)](https://david-dm.org/alik0211/pokedex?type=dev)
 
-List of pokemons on the basis of React + Redux
+
+Lista de pokemons básicos com React + Redux
 
 ## Available Scripts
 
@@ -28,4 +26,4 @@ Your app is ready to be deployed!
 
 ## Related
 
-- [YouTube Meta](https://github.com/alik0211/youtube-meta) - Shows meta information about the video on YouTube
+
